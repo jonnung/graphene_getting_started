@@ -1,13 +1,13 @@
 -i https://pypi.org/simple/
 aniso8601==7.0.0
-django==2.2.8
+django==2.2.13
 graphene-django==2.4.0
 graphene==2.1.8
-graphql-core==2.2.1
-graphql-relay==2.0.0
-promise==2.2.1
-pytz==2019.3
+graphql-core==2.3.2
+graphql-relay==2.0.1
+promise==2.3
+pytz==2020.1
 rx==1.6.1
 singledispatch==3.4.0.3
-six==1.13.0
-sqlparse==0.3.0
+six==1.15.0
+sqlparse==0.3.1
